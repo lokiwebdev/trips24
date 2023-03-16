@@ -1,4 +1,4 @@
-GitHub Page [Trips24](https://lokiwebdev.github.io/trips24/).
+GitHub Page [Trips24](https://lokiwebdev.github.io/).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
