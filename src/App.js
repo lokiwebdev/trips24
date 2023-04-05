@@ -20,6 +20,7 @@ import Flights from "./components/pages/flights/Flights";
 import "./components/stylesheets/auth.css";
 import "./components/stylesheets/layout.css";
 import CarsRental from "./components/pages/carsRental/CarsRental";
+import Hotel from "./components/pages/hotel/Hotel";
 
 
 
@@ -65,6 +66,7 @@ function App() {
               <Route path="/contact" exact element={<Contact />} />
               <Route path="/flights" exact element={<Flights />} />
               <Route path="/cars" exact element={<CarsRental />} />
+              <Route path="/hotels" exact element={<Hotel />} />
 
               <Route path="*" element={<Errorpage />} />
             </Routes>

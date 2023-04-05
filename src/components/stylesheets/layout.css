@@ -62,8 +62,11 @@
   /* text-shadow: 0 0.2rem 0.3rem green; */
   /* font-weight: bold; */
 }
+.navbar li a.active {
+  color: orangered !important;
+}
 
-.social-links {
+.pl {
   padding-left: 5em;
 }
 .social-links a {

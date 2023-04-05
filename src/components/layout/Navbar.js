@@ -136,7 +136,7 @@ const Navbar = (props) => {
                   </ul>
                 )}
 
-                <div className="social-links">
+                <div className="social-links pl ">
                   <a
                     href="https://www.facebook.com"
                     target="_blank"

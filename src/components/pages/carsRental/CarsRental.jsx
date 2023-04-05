@@ -6,8 +6,12 @@ import './carsRental.css';
 import CarImage1 from '../../assets/car1.jpg';
 import CarImage2 from '../../assets/car2.jpg';
 import CarImage3 from '../../assets/car3.jpg';
+import { useNavigate } from 'react-router-dom';
 
 function CarsRental() {
+
+    const navigate = useNavigate();
+
     const cars = [
         { id: 1, name: 'Tesla Model S', image: CarImage1, price: 'Rs.1500/day' },
         { id: 2, name: 'Ford Mustang', image: CarImage2, price: 'Rs.1000/day' },
@@ -24,7 +28,7 @@ function CarsRental() {
                         <img src={car.image} alt={car.name} />
                         <h2>{car.name}</h2>
                         <p>{car.price}</p>
-                        <button>Rent Now</button>
+                        <button onClick={() => { navigate("/carsp") }}>Rent Now</button>
                     </div>
                 ))}
             </div>
