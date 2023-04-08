@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.baa74a9c.css",
-    "main.js": "/static/js/main.371c04c1.js",
-    "static/media/car1.jpg": "/static/media/car1.9bb44550f5aa75419503.jpg",
-    "static/media/car2.jpg": "/static/media/car2.131477a35d1c71bd3764.jpg",
-    "static/media/lion.png": "/static/media/lion.8ae4d5f0bbe03ca81c36.png",
-    "static/media/car3.jpg": "/static/media/car3.bbe47a946b75cc377d77.jpg",
-    "index.html": "/index.html",
-    "main.baa74a9c.css.map": "/static/css/main.baa74a9c.css.map",
-    "main.371c04c1.js.map": "/static/js/main.371c04c1.js.map"
+    "main.css": "/trips24/static/css/main.baa74a9c.css",
+    "main.js": "/trips24/static/js/main.a009376d.js",
+    "static/media/car1.jpg": "/trips24/static/media/car1.9bb44550f5aa75419503.jpg",
+    "static/media/car2.jpg": "/trips24/static/media/car2.131477a35d1c71bd3764.jpg",
+    "static/media/lion.png": "/trips24/static/media/lion.8ae4d5f0bbe03ca81c36.png",
+    "static/media/car3.jpg": "/trips24/static/media/car3.bbe47a946b75cc377d77.jpg",
+    "index.html": "/trips24/index.html",
+    "main.baa74a9c.css.map": "/trips24/static/css/main.baa74a9c.css.map",
+    "main.a009376d.js.map": "/trips24/static/js/main.a009376d.js.map"
   },
   "entrypoints": [
     "static/css/main.baa74a9c.css",
-    "static/js/main.371c04c1.js"
+    "static/js/main.a009376d.js"
   ]
 }
