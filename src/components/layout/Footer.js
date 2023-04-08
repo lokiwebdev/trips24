@@ -72,7 +72,7 @@ const Footer = () => {
 
                         {""} All Rights Reserved | Powered By {""}
                         <a
-                            href="https://www.google.com" target="_blank" rel="noopener noreferrer"
+                            href="https://lokinder007.github.io/portfolio2/" target="_blank" rel="noopener noreferrer"
                             style={{ cursor: "pointer" }} title="Visit The Site"
                         >
                             Lokinder007
